@@ -27,18 +27,9 @@ cd VIRTEX
 git pull
 python Virtex.py
 ```
->
-★ **Bagi Yang Sudah Install Bahan** ★
->
-```
-cd VIRTEX
-git pull
-python Virtex.py
-```
->
-**★ Cara Jalankan Script ★**
->
-```
-cd VIRTEX
-python Virtex.py
-```
+####  Tampilan awal
+![deskripsi gambar](https://i.postimg.cc/8kmQfj2f/Screenshot-20220716-191347-1.jpg)
+####  Tampilan pilih virtex
+![deskripsi gambar](https://i.postimg.cc/jSZzF0DS/Screenshot-20220716-194440.png)
+####  Tampilan unduh virtex
+![deskripsi gambar](https://i.postimg.cc/bJdy0JK0/Screenshot-20220716-194608-1.jpg)
